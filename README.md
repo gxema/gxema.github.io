@@ -21,4 +21,4 @@ Storyscape
 
 This is storyscape Project
 
-<script src="//360/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/gxema/gema-gutierrez-copy-copy-copy-copy" ></script>
+<script src="//360.vizor.io//scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/gxema/gema-gutierrez-copy-copy-copy-copy" ></script>
